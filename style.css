@@ -569,7 +569,7 @@ header img {
     height: 250px;
   }
 }
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 344px) {
   header a {
     font-size: 14px !important;
     margin-right: 12px !important;

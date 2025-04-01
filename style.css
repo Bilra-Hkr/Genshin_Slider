@@ -462,10 +462,10 @@ header img {
 /* end animation */
 
 /* Mobile Responsive Styles */
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 678px) {
   header {
     height: 50px;  
-    max-width: 98%;
+    max-width: 90%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -475,7 +475,7 @@ header img {
 
   header a {
     font-size: 16px !important; 
-    margin-right: 12px !important;
+    margin-right: 20px !important;
     font-weight: 500;
   }
 
@@ -569,7 +569,7 @@ header img {
     height: 250px;
   }
 }
-@media screen and (max-width: 344px) {
+@media screen and (max-width: 480px) {
   header a {
     font-size: 14px !important;
     margin-right: 12px !important;
